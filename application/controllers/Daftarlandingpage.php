@@ -28,12 +28,12 @@ class DaftarLandingPage extends MY_Controller {
     //     ];
 
     //     $data['title'] = "Form Landing Page Klaster Nayanika";
-    //     $data['data_title'] = "Form Landing Page <br>www.klasternayanika.com";
+    //     $data['data_title'] = "Form Landing Page <br>www.sakinahmountainview.com";
     //     $this->load->view("sales/registrasi", $data);
     // }
 
     public function add_registrasi_marketing(){
-        $project = ["klaster-nayanika"];
+        $project = ["sakinah-mountain-view"];
 
         $panggilan = $this->input->post("panggilan");
         $nama_panggilan = $this->input->post("nama_panggilan");
@@ -64,13 +64,13 @@ class DaftarLandingPage extends MY_Controller {
         $to = $email;
         $subject = 'Link Landing Page';
 
-        $web_klaster_nayanika = "https://promo.klasternayanika.com/{$id_name}";
+        $web_smv = "https://promo.sakinahmountainview.com/{$id_name}";
 
         $message = "
             <h3>Alhamdulillah, Selamat Anda Telah Berhasil Membuat Landing Page</h3>
             <p><b>Berikut Landing Page Yang Telah Anda Buat : </b></p>
             <ol>
-                <li><b>Klaster Nayanika</b> <br> {$web_klaster_nayanika}<br><br></li>
+                <li><b>Sakinah Mountain View</b> <br> {$web_smv}<br><br></li>
             </ol>
             <p>Dan berikut data diri Anda : </p>
             
@@ -141,7 +141,7 @@ class DaftarLandingPage extends MY_Controller {
                 </center>
                 <p><b>Berikut Landing Page Yang Telah Anda Buat : </b></p>
                 <ol>
-                    <li class='mb-3'><b>Klaster Nayanika</b> <br> Kavling Siap Bangun di Setu Bekasi</li>
+                    <li class='mb-3'><b>Sakinah Mountain View</b><br> Kavling Siap Bangun di Ciampea Bogor</li>
                 </ol>
                 <center>
                     <div class='mt-4'>
@@ -182,8 +182,8 @@ class DaftarLandingPage extends MY_Controller {
         $to = $email_marketing;
         $project = $this->input->post("project");
 
-        if($project == "klaster-nayanika"){
-            $nama_project = "Klaster Nayanika";
+        if($project == "sakinah-mountain-view"){
+            $nama_project = "Sakinah Moutain View";
         }
 
         $subject = "Data Peminat {$nama_project}";

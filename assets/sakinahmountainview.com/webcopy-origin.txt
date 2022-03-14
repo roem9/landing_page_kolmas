@@ -1,0 +1,496 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Cormorant+Garamond:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Libre+Franklin:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.9.1
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v14/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtP.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\cormorantgaramond\v14\co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v14/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEO7uj-KzhY.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\cormorantgaramond\v14\co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEO7uj-KzhY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v14/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEOXvT-KzhY.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\cormorantgaramond\v14\co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEOXvT-KzhY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v14/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPjuz-KzhY.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\cormorantgaramond\v14\co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPjuz-KzhY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v14/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-KzhY.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\cormorantgaramond\v14\co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-KzhY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v14/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQAllfvg-N.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\cormorantgaramond\v14\co3YmX5slCNuHLi8bLeY9MK7whWMhyjQAllfvg-N.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v14/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQdl9fvg-N.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\cormorantgaramond\v14\co3YmX5slCNuHLi8bLeY9MK7whWMhyjQdl9fvg-N.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v14/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fvg-N.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\cormorantgaramond\v14\co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fvg-N.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v14/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQWlhfvg-N.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\cormorantgaramond\v14\co3YmX5slCNuHLi8bLeY9MK7whWMhyjQWlhfvg-N.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantgaramond/v14/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImS8.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\cormorantgaramond\v14\co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImS8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oabQ-DLR-M.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oabQ-DLR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oaiQ-DLR-M.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oaiQ-DLR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05ob8Q-DLR-M.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05ob8Q-DLR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05ob8RODLR-M.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05ob8RODLR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05obVQ-DLR-M.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05obVQ-DLR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oYiRODLR-M.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oYiRODLR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZ8ReDLR-M.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZ8ReDLR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZ8RODLR-M.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZ8RODLR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZORODLR-M.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZORODLR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduh8MKkANDM.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduh8MKkANDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhcMWkANDM.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhcMWkANDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhh8KkANDM.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhh8KkANDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhHMWkANDM.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhHMWkANDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsSkANDM.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsSkANDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsWkANDM.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsWkANDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhrsKkANDM.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhrsKkANDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhrsWkANDM.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhrsWkANDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhycKkANDM.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhycKkANDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\montserrat\v23\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\montserrat\v23\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\montserrat\v23\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\montserrat\v23\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\montserrat\v23\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\montserrat\v23\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\montserrat\v23\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\montserrat\v23\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\montserrat\v23\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\roboto\v29\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\roboto\v29\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\roboto\v29\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\roboto\v29\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\roboto\v29\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\roboto\v29\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\roboto\v29\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\roboto\v29\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\roboto\v29\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\roboto\v29\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\roboto\v29\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://sakinahmountainview.com/comments/feed/
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://sakinahmountainview.com/feed/
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://sakinahmountainview.com/halaman/
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\halaman\index.htm
+Content Type: text/html
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.6.2
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementor-pro\assets\css\widget-call-to-action.min.css
+Content Type: text/css
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.6.2
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.6.2
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.6.2
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.6.2
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.5.3
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.5.3
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.3
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.5.3
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.5.3
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.13.0
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=2.5.3
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.5.3
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: application/javascript
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.5.3
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.5.3
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.5.3
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.js?ver=2.5.3
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle.js
+Content Type: application/javascript
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.5.3
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor.js
+Content Type: application/javascript
+
+Uri: https://sakinahmountainview.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.5.3
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: application/javascript
+
+Uri: https://sakinahmountainview.com/wp-content/themes/twentytwentytwo/assets/fonts/SourceSerif4Variable-Italic.ttf.woff2
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\themes\twentytwentytwo\assets\fonts\SourceSerif4Variable-Italic.ttf.woff2
+Content Type: font/woff2
+
+Uri: https://sakinahmountainview.com/wp-content/themes/twentytwentytwo/assets/fonts/SourceSerif4Variable-Roman.ttf.woff2
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\themes\twentytwentytwo\assets\fonts\SourceSerif4Variable-Roman.ttf.woff2
+Content Type: font/woff2
+
+Uri: https://sakinahmountainview.com/wp-content/themes/twentytwentytwo/style.css?ver=1.0
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\themes\twentytwentytwo\style.css
+Content Type: text/css
+
+Uri: https://sakinahmountainview.com/wp-content/uploads/2021/12/logo-sakinah-mountain-view-1-150x150.png
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\uploads\2021\12\logo-sakinah-mountain-view-1-150x150.png
+Content Type: image/png
+
+Uri: https://sakinahmountainview.com/wp-content/uploads/2021/12/logo-sakinah-mountain-view-1-300x300.png
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\uploads\2021\12\logo-sakinah-mountain-view-1-300x300.png
+Content Type: image/png
+
+Uri: https://sakinahmountainview.com/wp-content/uploads/2022/02/klaster-nayanika-28-279x300.png
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\uploads\2022\02\klaster-nayanika-28-279x300.png
+Content Type: image/png
+
+Uri: https://sakinahmountainview.com/wp-content/uploads/2022/02/klaster-nayanika-28.png
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\uploads\2022\02\klaster-nayanika-28.png
+Content Type: image/png
+
+Uri: https://sakinahmountainview.com/wp-content/uploads/2022/02/Sakinah-Mountain-View-20-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\uploads\2022\02\Sakinah-Mountain-View-20-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://sakinahmountainview.com/wp-content/uploads/2022/02/Sakinah-Mountain-View-21-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\uploads\2022\02\Sakinah-Mountain-View-21-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://sakinahmountainview.com/wp-content/uploads/2022/02/Sakinah-Mountain-View-22-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\uploads\2022\02\Sakinah-Mountain-View-22-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://sakinahmountainview.com/wp-content/uploads/2022/02/Sakinah-Mountain-View-25-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\uploads\2022\02\Sakinah-Mountain-View-25-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://sakinahmountainview.com/wp-content/uploads/2022/02/Sakinah-Mountain-View-26-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\uploads\2022\02\Sakinah-Mountain-View-26-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://sakinahmountainview.com/wp-content/uploads/2022/02/Sakinah-Mountain-View-27-1-300x201.jpg
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\uploads\2022\02\Sakinah-Mountain-View-27-1-300x201.jpg
+Content Type: image/jpeg
+
+Uri: https://sakinahmountainview.com/wp-content/uploads/2022/02/Sakinah-Mountain-View-27-1.jpg
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\uploads\2022\02\Sakinah-Mountain-View-27-1.jpg
+Content Type: image/jpeg
+
+Uri: https://sakinahmountainview.com/wp-content/uploads/2022/02/Sakinah-Mountain-View-27-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\uploads\2022\02\Sakinah-Mountain-View-27-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://sakinahmountainview.com/wp-content/uploads/elementor/css/post-420.css?ver=1646709128
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\uploads\elementor\css\post-420-1.css
+Content Type: text/css
+
+Uri: https://sakinahmountainview.com/wp-content/uploads/elementor/css/post-5.css?ver=1646709111
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-content\uploads\elementor\css\post-5-1.css
+Content Type: text/css
+
+Uri: https://sakinahmountainview.com/wp-includes/js/dist/hooks.min.js?ver=1e58c8c5a32b2e97491080c5b10dc71c
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://sakinahmountainview.com/wp-includes/js/dist/i18n.min.js?ver=30fcecb428a0e8383d3776bcdd3a7834
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://sakinahmountainview.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://sakinahmountainview.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://sakinahmountainview.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://sakinahmountainview.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://sakinahmountainview.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://sakinahmountainview.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://sakinahmountainview.com/wp-json/
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://sakinahmountainview.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsakinahmountainview.com%2Fhalaman%2F
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://sakinahmountainview.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fsakinahmountainview.com%2Fhalaman%2F&format=xml
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://sakinahmountainview.com/wp-json/wp/v2/pages/420
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\wp-json\wp\v2\pages\420
+Content Type: application/json
+
+Uri: https://sakinahmountainview.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\sakinahmountainview.com\xmlrpc.php
+Content Type: text/xml
+
