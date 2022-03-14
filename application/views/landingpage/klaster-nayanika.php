@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-			<title>Ali &#8211; Klaster Nayanika</title>
+			<title>Klaster Nayanika - Kavling Siap Bangun Di Setu Bekasi</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name='robots' content='max-image-preview:large'>
-<title>Ali &#8211; Klaster Nayanika</title>
+<title>Klaster Nayanika - Kavling Siap Bangun Di Setu Bekasi</title>
 <link rel='dns-prefetch' href='//s.w.org'>
 <link rel="alternate" type="application/rss+xml" title="Klaster Nayanika &raquo; Feed" href="../feed/index.htm">
 <link rel="alternate" type="application/rss+xml" title="Klaster Nayanika &raquo; Comments Feed" href="../comments/feed/index.htm">
@@ -120,7 +120,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2c0ed7ed" data-id="2c0ed7ed" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-fd7b923 elementor-tablet-align-left elementor-widget elementor-widget-button" data-id="fd7b923" data-element_type="widget" data-widget_type="button.default">
+								<div class="elementor-element elementor-element-360012e elementor-tablet-align-left elementor-widget elementor-widget-button" data-id="360012e" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
 			<a href="<?= $link_wa?>" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
@@ -1862,10 +1862,11 @@ body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div
 					<input type="hidden" name="email_marketing" value="<?= $marketing['email']?>" class="required">
 					<input type="hidden" name="project" value="<?= $marketing['project']?>" class="required">
 					<input type="hidden" name="id_name" value="<?= $marketing['id_name']?>" class="required">
-					<button type="button" class="elementor-button elementor-size-md btn-download-brosur">
+					<button type="button" class="elementor-button elementor-size-md btn-download-brosur" style="background-color: #FEB818; color: black">
 						<span>
 							<span class="elementor-align-icon-left elementor-button-icon">
-							<i aria-hidden="true" class="material-icons"></i>																	</span>
+							<i aria-hidden="true" class="material-icons md-download_for_offline" data-md-icon="download_for_offline"></i>
+							</span>
 							<span class="elementor-button-text">Request Brosur</span>
 						</span>
 					</button>

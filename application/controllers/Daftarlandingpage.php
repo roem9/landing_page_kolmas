@@ -33,7 +33,7 @@ class DaftarLandingPage extends MY_Controller {
     // }
 
     public function add_registrasi_marketing(){
-        $project = ["arunika-village"];
+        $project = ["klaster-nayanika"];
 
         $panggilan = $this->input->post("panggilan");
         $nama_panggilan = $this->input->post("nama_panggilan");
@@ -64,13 +64,13 @@ class DaftarLandingPage extends MY_Controller {
         $to = $email;
         $subject = 'Link Landing Page';
 
-        $web_arunika_village = "https://promo.arunikavillage.com/{$id_name}";
+        $web_klaster_nayanika = "https://promo.klasternayanika.com/{$id_name}";
 
         $message = "
             <h3>Alhamdulillah, Selamat Anda Telah Berhasil Membuat Landing Page</h3>
             <p><b>Berikut Landing Page Yang Telah Anda Buat : </b></p>
             <ol>
-                <li><b>Arunika Village</b> <br> {$web_arunika_village}<br><br></li>
+                <li><b>Klaster Nayanika</b> <br> {$web_klaster_nayanika}<br><br></li>
             </ol>
             <p>Dan berikut data diri Anda : </p>
             
@@ -141,7 +141,7 @@ class DaftarLandingPage extends MY_Controller {
                 </center>
                 <p><b>Berikut Landing Page Yang Telah Anda Buat : </b></p>
                 <ol>
-                    <li class='mb-3'><b>Arunika Village</b> <br> Perumahan Paling Terjangkau di Setu Bekasi</li>
+                    <li class='mb-3'><b>Klaster Nayanika</b> <br> Kavling Siap Bangun di Setu Bekasi</li>
                 </ol>
                 <center>
                     <div class='mt-4'>
@@ -158,6 +158,9 @@ class DaftarLandingPage extends MY_Controller {
     }
 
     public function add_leads(){
+
+        $marketing = $this->daftarlandingpage->get_one("marketing", ["id" => $this->input->post("id")]);
+
         // var_dump($_POST);
         $data = [
             'id_marketing' => $this->input->post("id"),
@@ -179,8 +182,8 @@ class DaftarLandingPage extends MY_Controller {
         $to = $email_marketing;
         $project = $this->input->post("project");
 
-        if($project == "arunika-village"){
-            $nama_project = "Arunika Village";
+        if($project == "klaster-nayanika"){
+            $nama_project = "Klaster Nayanika";
         }
 
         $subject = "Data Peminat {$nama_project}";
@@ -202,6 +205,25 @@ class DaftarLandingPage extends MY_Controller {
         $this->email->subject($subject);
         $this->email->message($message);
         $this->email->send();
+
+        $message = "
+        <p>Berikut data peminat Anda yang telah download brosur {$nama_project}, silahkan di follow up maksimal ya..</p>
+
+        <p>
+            Nama : {$this->input->post('nama')} <br>
+            No. WA : {$this->input->post('no_wa')}<br>
+            Email : {$this->input->post('email')}
+        </p>
+
+        <p>Terima kasih, semoga berminat survey & closing. Aamiin Ya Allah</p>
+        
+        <p>Leads ini di dapatkan dari : </p>
+        <p>
+            Nama Marketing : {$marketing['nama']}<br>
+            No. WA : {$marketing['no_wa']}<br>
+            Email : {$marketing['email']}
+        </p>
+        ";
         
         $this->email->set_newline("\r\n");
         $this->email->from($from);
