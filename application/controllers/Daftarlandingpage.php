@@ -64,7 +64,7 @@ class DaftarLandingPage extends MY_Controller {
         $to = $email;
         $subject = 'Link Landing Page';
 
-        $web_smv = "https://yanproland.club//{$id_name}";
+        $web_smv = "https://kolmas.yanproland.club/{$id_name}";
 
         $message = "
             <h3>Alhamdulillah, Selamat Anda Telah Berhasil Membuat Landing Page</h3>
