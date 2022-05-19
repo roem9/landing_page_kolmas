@@ -11,7 +11,7 @@ class DaftarLandingPage extends MY_Controller {
             "helper.js",
         ];
 
-        $data['title'] = "Form Pendaftaran Landing Page Project Amerta Property";
+        $data['title'] = "Form Pendaftaran Landing Page Emeralda Kolmas";
 
         $this->load->view("sales/registrasi", $data);
     }
@@ -125,7 +125,7 @@ class DaftarLandingPage extends MY_Controller {
             </ol>
             <p>Nah jika ada yang kurang dipahami, silahkan langsung konsultasikan dan tanya-tanya di grup atau ke leadernya yaa..</p>
             <p>Selamat mencoba, semoga berhasil dan mendapatkan closingan dan KOMISI yang BERKAH serta BERLIMPAH yang bisa bermanfaat untuk diri sendiri, keluarga dan juga orang lain. Aamiin Ya Allah</p>
-            <p><b>Salam hangat dari saya Ali El Farabi owner Amerta Property</b></p>";
+            <p><b>Yanpro Land Club X Sharia Institute</b></p>";
 
         $this->email->set_newline("\r\n");
         $this->email->from($from);
@@ -148,7 +148,7 @@ class DaftarLandingPage extends MY_Controller {
                         <p>Silakan cek email untuk mendapatkan link dari masing-masing landing page tersebut.<br> Oh iya, Langsung cek Email Anda sekarang, ada <b>BONUS TIPS & TRICK CARA PENGGUNAAN LANDING PAGE</b>. Cekidot!</p>
                     </div>
                     <div class='mt-4'>
-                        <p><b>Salam hangat dari saya Ali El Farabi owner Amerta Property</b></p>
+                        <p><b>Yanpro Land Club X Sharia Institute</b></p>
                     </div>
                 </center>
             </div>
