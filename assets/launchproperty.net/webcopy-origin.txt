@@ -1,0 +1,652 @@
+Uri: https://connect.facebook.net/en_US/fbevents.js
+File Name: C:\Downloaded Web Sites\launchproperty.net\en_US\fbevents.js
+Content Type: application/x-javascript
+
+Uri: https://connect.facebook.net/signals/config/299503761775116?v=2.9.64&r=stable
+File Name: C:\Downloaded Web Sites\launchproperty.net\signals\config\299503761775116
+Content Type: application/x-javascript
+
+Uri: https://connect.facebook.net/signals/config/3286431148350603?v=2.9.64&r=stable
+File Name: C:\Downloaded Web Sites\launchproperty.net\signals\config\3286431148350603
+Content Type: application/x-javascript
+
+Uri: https://connect.facebook.net/signals/config/595081741839291?v=2.9.64&r=stable
+File Name: C:\Downloaded Web Sites\launchproperty.net\signals\config\595081741839291
+Content Type: application/x-javascript
+
+Uri: https://connect.facebook.net/signals/config/876827149651551?v=2.9.64&r=stable
+File Name: C:\Downloaded Web Sites\launchproperty.net\signals\config\876827149651551
+Content Type: application/x-javascript
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lora:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Raleway:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.0
+File Name: C:\Downloaded Web Sites\launchproperty.net\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lora/v24/0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkqg.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\lora\v24\0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v24/0QI6MX1D_JOuGQbT0gvTJPa787wsuxJBkqg.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\lora\v24\0QI6MX1D_JOuGQbT0gvTJPa787wsuxJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v24/0QI6MX1D_JOuGQbT0gvTJPa787z5vBJBkqg.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\lora\v24\0QI6MX1D_JOuGQbT0gvTJPa787z5vBJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v24/0QI6MX1D_JOuGQbT0gvTJPa787zAvBJBkqg.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\lora\v24\0QI6MX1D_JOuGQbT0gvTJPa787zAvBJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v24/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-BQCoq92mQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\lora\v24\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-BQCoq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v24/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0Coq92mQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\lora\v24\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-C0Coq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v24/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoq92mQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\lora\v24\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v24/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-PgFoq92mQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\lora\v24\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-PgFoq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\raleway\v27\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\raleway\v27\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\raleway\v27\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\raleway\v27\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\raleway\v27\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\raleway\v27\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\raleway\v27\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\raleway\v27\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\raleway\v27\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\raleway\v27\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\raleway\v27\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\raleway\v27\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\raleway\v27\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\raleway\v27\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\raleway\v27\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\raleway\v27\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\raleway\v27\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v27/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\raleway\v27\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v23/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\robotoslab\v23\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v23/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\robotoslab\v23\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v23/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\robotoslab\v23\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v23/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\robotoslab\v23\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v23/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\robotoslab\v23\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v23/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\robotoslab\v23\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v23/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\robotoslab\v23\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v23/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\robotoslab\v23\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v23/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\s\robotoslab\v23\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://launchproperty.net/clusterbaru/
+File Name: C:\Downloaded Web Sites\launchproperty.net\clusterbaru\index.htm
+Content Type: text/html
+
+Uri: https://launchproperty.net/comments/feed/
+File Name: C:\Downloaded Web Sites\launchproperty.net\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://launchproperty.net/feed/
+File Name: C:\Downloaded Web Sites\launchproperty.net\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://launchproperty.net/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/css/arrow-left.svg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\css\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://launchproperty.net/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/css/arrow-right.svg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\css\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://launchproperty.net/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/css/eae.min.css?ver=1.11.15
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\css\eae.min.css
+Content Type: text/css
+
+Uri: https://launchproperty.net/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/digit-sep-svg.svg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\digit-sep-svg.svg
+Content Type: image/svg+xml
+
+Uri: https://launchproperty.net/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/digits-svg-alpha.svg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\digits-svg-alpha.svg
+Content Type: image/svg+xml
+
+Uri: https://launchproperty.net/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/animated-main.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\js\animated-main.min.js
+Content Type: application/javascript
+
+Uri: https://launchproperty.net/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/eae.min.js?ver=1.11.15
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\js\eae.min.js
+Content Type: application/javascript
+
+Uri: https://launchproperty.net/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/particles.min.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\js\particles.min.js
+Content Type: application/javascript
+
+Uri: https://launchproperty.net/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/magnific.min.js?ver=1.1.0
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\lib\magnific.min.js
+Content Type: application/javascript
+
+Uri: https://launchproperty.net/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/vegas/vegas.min.css?ver=2.4.0
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\lib\vegas\vegas.min.css
+Content Type: text/css
+
+Uri: https://launchproperty.net/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/vegas/vegas.min.js?ver=2.4.0
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\lib\vegas\vegas.min.js
+Content Type: application/javascript
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.6.4
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.6.4
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.4
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.4
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.4
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.15.0
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.15.0
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.15.0
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.15.0
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: x-font/ttf
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.15.0
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: application/font-woff2
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.15.0
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: x-font/woff
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/javascript
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: x-font/ttf
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: x-font/woff
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: x-font/ttf
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: x-font/woff
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: x-font/ttf
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: x-font/woff
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: https://launchproperty.net/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://launchproperty.net/wp-content/plugins/fluentform/public/css/fluent-forms-elementor-widget.css?ver=4.3.6
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\fluentform\public\css\fluent-forms-elementor-widget.css
+Content Type: text/css
+
+Uri: https://launchproperty.net/wp-content/plugins/notifier-for-phone/public/js/serialize.js?v=1
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\plugins\notifier-for-phone\public\js\serialize.js
+Content Type: application/javascript
+
+Uri: https://launchproperty.net/wp-content/themes/landingpress-wp/assets/images/select-arrow.png
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\themes\landingpress-wp\assets\images\select-arrow.png
+Content Type: image/png
+
+Uri: https://launchproperty.net/wp-content/themes/landingpress-wp/assets/js/script.min.js?ver=3.2.1
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\themes\landingpress-wp\assets\js\script.min.js
+Content Type: application/javascript
+
+Uri: https://launchproperty.net/wp-content/themes/landingpress-wp/style.css?ver=3.2.1
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\themes\landingpress-wp\style.css
+Content Type: text/css
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/03/bg-lp.jpg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\03\bg-lp.jpg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/04/bg-new.jpg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\04\bg-new.jpg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/04/gathering-768x499.jpg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\04\gathering-768x499.jpg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/04/gathering.jpg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\04\gathering.jpg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/04/gathering2-768x499.jpg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\04\gathering2-768x499.jpg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/04/gathering2.jpg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\04\gathering2.jpg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/04/gathering3-768x499.jpg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\04\gathering3-768x499.jpg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/04/gathering3.jpg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\04\gathering3.jpg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/04/gathering4-768x499.jpg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\04\gathering4-768x499.jpg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/04/gathering4.jpg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\04\gathering4.jpg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/04/gathering5-768x499.jpg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\04\gathering5-768x499.jpg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/04/gathering5.jpg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\04\gathering5.jpg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/04/gathering6-768x499.jpg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\04\gathering6-768x499.jpg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/04/gathering6.jpg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\04\gathering6.jpg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/04/interior-kamar.jpg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\04\interior-kamar.jpg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/04/KOLMAS-BONUS.png
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\04\KOLMAS-BONUS.png
+Content Type: image/png
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/04/kolmas3.jpg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\04\kolmas3.jpg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/04/LOGO-LAUNCH-PROPERTY-1.png
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\04\LOGO-LAUNCH-PROPERTY-1.png
+Content Type: image/png
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/04/thinking.jpg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\04\thinking.jpg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/06/13870e5d-0658-46ac-91db-afc2dd024579.jpg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\06\13870e5d-0658-46ac-91db-afc2dd024579.jpg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/06/1654867499282-768x1087.webp
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\06\1654867499282-768x1087.webp
+Content Type: image/webp
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/06/1654867499297.webp
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\06\1654867499297.webp
+Content Type: image/webp
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/06/emeralda-resort__sites_620_2022_02_rumah-upslope-emerald-resort-bandung-2.webp
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\06\emeralda-resort__sites_620_2022_02_rumah-upslope-emerald-resort-bandung-2.webp
+Content Type: image/webp
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/06/WhatsApp-Image-2022-03-24-at-11.44.21-1024x1024.jpeg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\06\WhatsApp-Image-2022-03-24-at-11.44.21-1024x1024.jpeg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/06/WhatsApp-Image-2022-03-24-at-11.44.46-768x768.jpeg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\06\WhatsApp-Image-2022-03-24-at-11.44.46-768x768.jpeg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/06/WhatsApp-Image-2022-03-24-at-11.44.48-1024x1024.jpeg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\06\WhatsApp-Image-2022-03-24-at-11.44.48-1024x1024.jpeg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/07/KONTEN-1-995x1024.jpg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\07\KONTEN-1-995x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/07/konten-4-1024x1024.jpeg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\07\konten-4-1024x1024.jpeg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-01-at-2.24.35-PM-768x768.jpeg
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-content\uploads\2022\07\WhatsApp-Image-2022-07-01-at-2.24.35-PM-768x768.jpeg
+Content Type: image/jpeg
+
+Uri: https://launchproperty.net/wp-includes/css/dist/block-library/style.min.css?ver=6.0
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://launchproperty.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://launchproperty.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://launchproperty.net/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\launchproperty.net\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtm.js?id=GTM-N7WH2XP
+File Name: C:\Downloaded Web Sites\launchproperty.net\gtm.js
+Content Type: application/javascript
+
